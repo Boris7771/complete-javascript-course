@@ -1,0 +1,15 @@
+let x = 1;
+let y = 3;
+console.log(`x + y = ${x + y}`);
+x = 12;
+y = 4;
+console.log(`x % y = ` + (x % y));
+x = 13;
+y = 5;
+console.log(`x / y = ` + x / y);
+x = 17;
+y = 4;
+console.log(`x - y = ` + (x - y));
+x = 44;
+y = 30;
+console.log(`x * y = ${" bgknknr" + "vmfkv " + "x * y"}`);
