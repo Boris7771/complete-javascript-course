@@ -12,4 +12,4 @@ y = 4;
 console.log(`x - y = ` + (x - y));
 x = 44;
 y = 30;
-console.log(`x * y = ${" bgknknr" + "vmfkv " + "x * y"}`);
+console.log(`x * y = ${x * y}`);
