@@ -15,7 +15,6 @@ console.log(megaArray[1]);
 megaArray[1] = ["Kebabche", "Burger"];
 console.log(megaArray);
 console.log(megaArray[1][0]);
-
 const myArray = [
   [1, 2, 3],
   [4, 5, 6],
